@@ -10,3 +10,7 @@ This diagram illustrates the workflow of the **Releases Working Group Calendar W
 - The latest dates are stored in the **Database** and served to the **Calendar UI**.
 
 ![System Architecture](Diagrams/system_architecture.png)
+
+
+The following Data Flow Diagram illustrates how data is fetched, stored, compared, and updated in the system.
+![Data flow](Diagrams/Data_flow_diagram_Gsoc.png)
