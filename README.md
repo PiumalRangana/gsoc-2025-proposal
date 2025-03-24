@@ -9,4 +9,4 @@ This diagram illustrates the workflow of the **Releases Working Group Calendar W
 - If dates change, **Slack notifications** are sent.
 - The latest dates are stored in the **Database** and served to the **Calendar UI**.
 
-![System Architecture](Diagrams/System architecture. (5).png)
+![System Architecture](System architecture. (5).png)
